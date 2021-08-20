@@ -586,3 +586,14 @@ a.logo{margin-top: 5px;  }
 								.kode-sidebar.kode-left-sidebar,
 								.kode-sidebar.kode-right-sidebar,
 								.kode-widget.kode-sidebar-element{padding-right: px !important;}
+
+rs-layer h1{
+	color: #ffffff;
+	font-size: 4rem;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+rs-layer p{
+	font-size: 2rem;
+	font-weight: 500;
+}
