@@ -1,0 +1,179 @@
+/*
+	  ============================================================
+		   Font Color
+	  ============================================================
+*/
+.theme-color,
+.campaing-title:hover a,
+.d-relf-recentpost:hover h6 a,
+.widget_nav_menu li a:hover,
+.d-relf-gallary-thumb:hover .text h6 a,
+.slider-nav2 .banner-thumb:hover .text h6,
+.slider-nav2 .banner-thumb:hover .text i,
+.slider-nav2 .slick-current .banner-thumb .text h6,
+.slider-nav2 .slick-current .banner-thumb .text i,
+.navigation ul li.active > a,
+.navigation ul li:hover > a,
+.event-title:hover a,
+.widget-categories ul li:hover a,
+.d-relf-breadcrumb .breadcrumb li a:hover,
+.banner-thumb:hover .text i,
+.campaing-thumb-contant h4:hover,
+.custom-slider-navigation2 .slick-arrow:before,
+.event-post-meta .blog-info a:hover,
+.custom-slider-navigation .slick-arrow:hover::before,
+.kode_radio_style small
+
+{
+	color:#b43e35;
+}
+/*
+	  ============================================================
+		   Background Color
+	  ============================================================
+*/
+
+
+.navigation ul li > .children > li:hover > a,
+.navigation ul li > .children > li:hover .children > a,
+.main-heading h5:before,
+.main-heading h5:after,
+.theme-overlay:before,
+.d-relf-services:hover,
+.footer-contact:hover span,
+.kode-pagination .page-numbers:hover,
+.custom-slider-navigation2 .slick-arrow:hover,
+.d-relf-volunteer:hover .volunteer-contant,
+.d-relf-gallary-thumb  figure,
+.slider-nav2 .slick-current .banner-thumb .text i:after,
+.banner-thumb:hover .text i::after,
+.custom-dots .slick-dots li.slick-active,
+.d-relf-donation-button a.theme-bg-color,
+.theme-bg-color,
+.social-icons li:hover a,
+.d-relf-donation-button a:hover,
+.navigation ul li a:before,
+.event_columns_style_03:hover .event_fixed-date span,
+.d-relf-recentpost figure,
+.btn-default.theme-hover:hover,
+.d-relf-event:hover .event-contant .event-head .date-box,
+.d-relf-event-list .event-head:hover .date-box,
+.d-relf-event:hover .gray-bg-color,
+.gray-bg-color:hover,
+.hover-effect .effect_data li:hover a,
+.widget-tags li:hover a,
+.barWrapper.theme-color-progressbar .tooltip > .tooltip-inner,
+.barWrapper.theme-color-progressbar .progress-bar,
+.d-relf-campaing-thumb:hover .tooltip > .tooltip-inner,
+.d-relf-campaing-thumb:hover .barWrapper .progress-bar,
+.btn-default.theme-color.theme-bdr-color:hover,
+.kode-social-link a:hover,
+#form03 .modal-header, 
+#form02 .modal-header,
+.kode_radio_style input[type="radio"]:checked + span:before
+{
+	background-color:#b43e35;
+}
+
+/*
+	  ============================================================
+		   Border Color
+	  ============================================================
+*/
+.eco_donations_select .kode_radio_style span:before,
+.barWrapper.theme-color-progressbar .popOver + .tooltip > .tooltip-arrow,
+.d-relf-campaing-thumb:hover .barWrapper .popOver + .tooltip > .tooltip-arrow,
+.d-relf-campaing-thumb:hover .popOver + .tooltip > .tooltip-arrow,
+.input-area input:focus,
+.d-relf-event:hover .gray-bg-color,
+.gray-bg-color:hover,
+.effect_data ul li a,
+.kode-textarea textarea:focus,
+.kf_commet_field input:focus,
+.kode-pagination .page-numbers:hover,
+.custom-slider-navigation2 .slick-arrow:hover,
+.d-relf-volunteer:hover .icon-style:before,
+.d-relf-volunteer:hover .icon-style,
+.btn-default.theme-hover:hover,
+.btn-default.theme-color.theme-bdr-color:hover,
+.theme-bdr-color
+{
+	border-color:#b43e35;
+}
+/*
+	  ============================================================
+		   Trandition
+	  ============================================================
+*/
+.input-area input,
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,
+h1,h2,h3,h4,h5,h6,
+.date-box,
+.campaing-title,
+.d-relf-breadcrumb .breadcrumb li a,
+.btn-default,
+.navigation ul li a,
+.icon-box,
+.brand-slider a img,
+.footer-contact span,
+.kode-social-link a,
+.volunteer-contant p,
+.d-relf-recentpost figure img,
+.banner-thumb .text h6,
+.banner-thumb .text i,
+.banner-thumb .text i::after,
+.banner-thumb figure img,
+.theme-overlay:before,
+.d-relf-services,
+.services-progress:before,
+.d-relf-services p,
+.volunteer-contant em,
+.d-relf-volunteer,
+.volunteer-contant,
+ .volunteer-contant:before,
+.volunteer-contant p,
+.icon-style,
+.donatenow-sidebtn,
+.icon-style:before,
+.kode-pagination .page-numbers,
+.kode-textarea textarea,
+.kf_commet_field input,
+.event_columns_style_03 .event_fixed-date span,
+.event_columns_style_03 .absolute-data-event,
+.event-post-meta .blog-info a,
+.widget-tags li a,
+.shop-hover,
+.event_columns_style_03 .btn-default,
+.social-icons li a,
+.event_shop_style figure:before,
+.widget-categories ul li a,
+.hover-effect figure:before,
+.event-post-meta .blog-info ,
+.hover-effect .effect_data,
+.d-relf-gallary-thumb figure img,
+.custom-slider-navigation .slick-arrow:before,
+.custom-dots .slick-dots li.slick-active,
+.d-relf-donation-button a,
+.navigation ul li a:before
+{
+	-webkit-transition:all 0.3s ease-in-out;
+		-moz-transition:all 0.3s ease-in-out;
+			-ms-transition:all 0.3s ease-in-out;
+				-o-transition:all 0.3s ease-in-out;
+					transition:all 0.3s ease-in-out;
+}
+
+
+.effect_data ul li a,
+.hover-effect .effect_data li,
+.hover-effect figure img{
+-webkit-transition:all 0.6s ease-in-out;
+		-moz-transition:all 0.6s ease-in-out;
+			-ms-transition:all 0.6s ease-in-out;
+				-o-transition:all 0.6s ease-in-out;
+					transition:all 0.6s ease-in-out;
+}
+
+.navigation ul li a{
+	color: #333;
+}

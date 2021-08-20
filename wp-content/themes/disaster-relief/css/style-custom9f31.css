@@ -1,0 +1,588 @@
+.kf_main_navigation ul li a{font-family:Montserrat}
+.kf_main_navigation ul li a{font-size:15px}
+.kf_main_navigation ul li a{line-height:19px}
+.kf_main_navigation ul li a{font-weight:600}
+.kf_main_navigation ul li a{letter-spacing:0.2px}
+.kf_main_navigation ul li a{text-transform:uppercase}
+body h1{font-family:Montserrat}
+body h1{font-size:36px }
+body h1{line-height:normalpx }
+body h1{font-weight:400 }
+body h1{letter-spacing:0.2px }
+body h1{text-transform:capitalize }
+body h2{font-family:Montserrat }
+body h2{font-size:32px }
+body h2{line-height:normalpx }
+body h2{font-weight:400 }
+body h2{letter-spacing:0.2px }
+body h2{text-transform:capitalize }
+body h3{font-family:Montserrat }
+body h3{font-size:36px }
+body h3{line-height:normalpx }
+body h3{font-weight:400 }
+body h3{letter-spacing:0.2px }
+body h3{text-transform:capitalize }
+body h4{font-family:Montserrat }
+body h4{font-size:24px }
+body h4{line-height:normalpx }
+body h4{font-weight:400 }
+body h4{letter-spacing:0.2px }
+body h4{text-transform:capitalize }
+body h5{font-family:Montserrat }
+body h5{font-size:22px }
+body h5{line-height:normalpx }
+body h5{font-weight:400 }
+body h5{letter-spacing:0.2px }
+body h5{text-transform:capitalize }
+body h6{font-family:Montserrat }
+body h6{font-size:20px }
+body h6{line-height:normalpx }
+body h6{font-weight:400 }
+body h6{letter-spacing:0.2px }
+body h6{text-transform:capitalize }
+body, p{font-family:Raleway}
+body, p{font-size:14px }
+body, p{line-height:normalpx }
+body, p{font-weight:400 }
+body, p{letter-spacing:0.2px }
+body, p{text-transform:none }
+.navigation > .menu > ul > li.current_page_item > a:hover,.navigation ul.menu > li.current-menu-item.current_page_item > a:hover{color:#dd3333 !important}
+	.navigation > .menu > ul > li a, 
+										.navigation ul.menu > li a,
+										.childcare_navigaion .navigation ul li a{color: #000000;  }
+.navigation > .menu > ul > li.current_page_item > a,.navigation ul.menu > li.current-menu-item.current_page_item > a{color: #000000;  }
+.navigation > .menu > ul > li.current_page_item a,
+										.navigation ul.menu > li.current-menu-item.current_page_item a,
+										.childcare_navigaion .navigation ul.menu > li.current-menu-item.current_page_item a{background-color: #ffffff;  }
+.kf_main_navigation .navigation .menu > ul > li.current_page_ancestor > a, .kf_main_navigation .navigation ul.menu > li.current_page_ancestor > a{color: #000000;  }
+.kf_main_navigation .navigation ul.menu > li.current_page_ancestor > a{background-color: #ffffff;  }
+.navigation .current_page_item a, .navigation > .menu > ul > li a, .navigation ul.menu > li a{background-color: #ffffff;  }
+.navigation ul li > a:before,
+							.navigation > .menu > ul > li a:hover, .navigation ul.menu > li a:hover{background-color: #ffffff;  }
+.navigation > .menu > ul > li a:hover, .navigation ul.menu > li a:hover{color: #8dc63f;  }
+.navigation ul li:before{color: #ffffff;  }
+.navigation > .menu > ul > li > ul.children li a, .navigation > ul > li > ul.children li a, .navigation > ul > li > ul.sub-menu li a, .navigation ul.menu > li ul.sub-menu li a, .navigation > ul > li ul.sub-menu li, .navigation ul.menu > li ul.sub-menu li{background-color: #ffffff !important;  }
+.sub-menu, .children,.navigation ul .sub-menu > li, .navigation ul .children > li{border-color: #ffffff !important;  }
+.navigation > .menu > ul > li ul.children li a, .navigation > ul > li ul.children li a, .navigation > ul > li ul.sub-menu li a, .navigation ul.menu > li ul.sub-menu li a, .navigation > ul > li ul.sub-menu li, .navigation ul.menu > li ul.sub-menu li{color: #000000 !important;  }
+.navigation > .menu > ul > li ul.children li:hover a, .navigation > ul > li ul.children li:hover a, .navigation > ul > li ul.sub-menu li:hover a, .navigation ul.menu > li ul.sub-menu li:hover a, .navigation > ul > li ul.sub-menu li:hover, .navigation ul.menu > li ul.sub-menu li:hover{color: #ffffff !important;  }
+.navigation > .menu > ul > li ul.children li:hover a, .navigation > ul > li ul.children li:hover a, .navigation > ul > li ul.sub-menu li:hover a, .navigation ul.menu > li ul.sub-menu li:hover a, .navigation > ul > li ul.sub-menu li:hover, .navigation ul.menu > li ul.sub-menu li:hover{background-color: #b43e35 !important;  }
+.navigation .menu ul > li.current_page_ancestor ul.children li.current_page_item a
+									   .navigation .menu ul > li.current_page_ancestor li.current_page_item a, 
+									   .navigation ul.menu > li.current_page_ancestor li.current_page_item a,
+									   .menu-item.menu-item-object-page.current-menu-item.page_item.current_page_item > a{background-color: #ffffff !important;  }
+.menu ul > li.current_page_ancestor ul.children li.current_page_item a,
+									   .navigation ul.menu > li.current_page_ancestor li.current_page_item a,
+									   .menu-item.menu-item-object-page.current-menu-item.page_item.current_page_item > a,
+									   .menu-item.menu-item-object-page.current-menu-item.page_item.current_page_item
+									   {color: #000000 !important;  }
+.kode-linksection, .kode-modren-btn{border-color:#ffffff !important}
+.kode-linksection, .kode-modren-btn{background:#ffffff !important}
+body { background-color: #ffffff;  }
+.kode_eco_footer_wraper, 
+									.eco_footer_content:after,
+									.childcare_footer:before{ opacity: 0.9 !important;  }
+.kode_eco_footer_wraper, .eco_footer_content:after,
+									.overlay_white:before, 
+									.overlay_dark:before, 
+									.overlay:before
+						{ background-color: #000000 !important;  }
+a.logo{margin-top: 5px;  }
+.kode_navigaion_bar{ background-color: #ffffff !important;  }
+	
+						.eco_donations_select .kode_radio_style span:before,
+						.input-area input:focus,
+						.d-relf-event:hover .gray-bg-color,
+						.gray-bg-color:hover,
+						.effect_data ul li a,
+						.kode-textarea textarea:focus,
+						.kf_commet_field input:focus,
+						.kode-pagination .page-numbers:hover,
+						.custom-slider-navigation2 .slick-arrow:hover,
+						.d-relf-volunteer:hover .icon-style:before,
+						.d-relf-volunteer:hover .icon-style,
+						.btn-default.theme-hover:hover,
+						.btn-default.theme-color.theme-bdr-color:hover,
+						.theme-bdr-color,
+						.htl2-login,
+						#buddypress div.item-list-tabs ul li a:hover,
+						#buddypress div.item-list-tabs ul li span:hover,
+						.login-button > a:before,
+						.dropdown-style,
+						.flex-direction-nav a:hover,
+						#wpforo-wrap input[type="submit"], #wpforo-wrap input[type="button"],
+						#wpforo-wrap input[type="button"],
+						#wpforo-wrap .wpforo-profile-wrap .wpf-profile-plugin-menu #wpf-pp-forum-menu .wpf-pp-menu-item,
+						body #cookie-law-info-bar,
+						.wpf-member-profile-buttons a:hover:before,
+						.wpforo #wpforo-wrap .wpf-button,
+						div.wpcf7-validation-errors,
+						div.wpcf7-mail-sent-ok,
+						.woocommerce input[type="tel"]:focus,
+						.woocommerce input[type="email"]:focus,
+						.woocommerce-MyAccount-navigation ul li:hover a,
+						blockquote, .blockquote,
+						.kode_navigation ul li a:hover:after,
+						.wpcf7-form p input[type="submit"],
+						.buddypress #cookie-law-info-bar,
+						.woocommerce input[type="text"]:focus,
+						.causes-detail .slick-slide.slick-current.slick-active.slick-center a,
+						.kode_post_slider .donate:hover,
+						.white-login-form.kode_login_social-account .login_registor-style span,
+						.white-login-form input[type="checkbox"]:checked ~ span,
+						.white-login-form input[type="checkbox"]:checked ~ span::before,
+						.bx-wrapper .bx-controls-direction a:hover,
+						#buddypress .activity-list li.load-more:hover, #buddypress .activity-list li.load-newest:hover,
+						#buddypress #whats-new:focus,
+						.gform_confirmation_message,
+						.gform_footer .gform_button:hover,
+						textarea.textarea.medium:focus,
+						.gform_wrapper input[type="text"]:focus,
+						.widget.buddypress #bp-login-widget-form input[type="text"]:focus,
+						.widget.buddypress #bp-login-widget-form input[type="password"]:focus,
+						.bbp-login-form  input[type="text"]:focus,
+						.bbp-login-form  input[type="password"]:focus,
+						.widget #bbp-search-form input[type="text"]:focus,
+						.bp-avatar-nav ul.avatar-nav-items li.current,
+						.bp-avatar-nav ul.avatar-nav-items li.current a,
+						.activity-list li.bbp_topic_create .activity-content .activity-inner, .activity-list li.bbp_reply_create .activity-content .activity-inner,
+						#buddypress div.item-list-tabs ul li.current a, #buddypress div.item-list-tabs ul li.selected a,
+						.woocommerce form .form-row.woocommerce-invalid .select2-container, .woocommerce form .form-row.woocommerce-invalid input.input-text, .woocommerce form .form-row.woocommerce-invalid select,
+						.woocommerce-MyAccount-navigation ul li.is-active a,
+						.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message,
+						
+						/*Childcare Colors*/						
+						.navigation ul li ul.children,
+						.checkbox label input[type="checkbox"]:checked ~ span:before,
+						.class_megamenu ul.row .mega-child li:hover a,
+						.navigation ul li.class_megamenu ul.row,
+						.progress_bar_style_02 .progressbar .label span,
+						.donors_causes_section figure img,
+						.sidebar-menu > li:hover > a,
+						.sidebar-menu > li.active > a,
+						.childcare-pagination .page-numbers:hover,
+						.childcare-pagination .current,
+						.blockquote span:before,
+						.blockquote,
+						.childcare_accordion .accordion-open:before,
+						.childcare_timeline-navigation li:hover a:after,
+						.childcare_our_history .events ol li a.selected:after,
+						.no-touch .childcare_our_history .events a:hover:after,
+						.childcare_our_history .events a.selected::after,
+						.childcare_our_history .events a.older-event:after,
+						.sub_title:before,
+						.contact_form,
+						.childcare_blog_columns:hover .childcare_blog_caption,
+						.childcare_heading h4:before,
+						.childcare_heading h4:after,
+						.childcare_heading h3:after,
+						body textarea:focus,
+						body input[type="text"]:focus,
+						.childcare_heading h3:before
+						
+							{
+							border-color:#b43e35 !important;
+						}
+						.theme-color,
+						.campaing-title:hover a,
+						.d-relf-recentpost:hover h6 a,
+						.widget_nav_menu li a:hover,
+						.d-relf-gallary-thumb:hover .text h6 a,
+						.slider-nav2 .banner-thumb:hover .text h6,
+						.slider-nav2 .banner-thumb:hover .text i,
+						.slider-nav2 .slick-current .banner-thumb .text h6,
+						.slider-nav2 .slick-current .banner-thumb .text i,
+						#buddypress .acomment-meta a:hover,
+						#buddypress .activity-header a:hover,
+						#buddypress .comment-meta a:hover,
+						.event-title:hover a,
+						.widget-categories ul li:hover a,
+						.d-relf-breadcrumb .breadcrumb li a:hover,
+						.banner-thumb:hover .text i,
+						.campaing-thumb-contant h4:hover,
+						.custom-slider-navigation2 .slick-arrow:before,
+						.event-post-meta .blog-info a:hover,
+						.custom-slider-navigation .slick-arrow:hover::before,
+						.kode_radio_style small,
+						.logged-in-as a,
+						.comment-content .pull-right li a:hover,
+						.tag_line .pull-left a:hover,
+						.woocommerce-MyAccount-content p a,
+						.product-thumbnail a:hover,
+						.product_meta a:hover,
+						.woocommerce div.product p.price, .woocommerce div.product span.price,
+						span.wpcf7-not-valid-tip,
+						.woocommerce .woocommerce-info::before,
+						.edit:hover,
+						.bbp-author-name:hover,
+						.woocommerce p.stars a,
+						.woocommerce a.remove,
+						.banner-meta .blog-info:hover a,
+						.widget_categories ul li:hover > a,
+						.widget_archive ul li:hover > a,
+						.widget_meta ul li:hover a,
+						.widget_recent_entries li:hover > a,
+						.widget_pages li:hover >a,
+						.recentcomments a:hover,
+						.video-button button:hover,
+						.woocommerce .woocommerce-message:before,
+						.tag_line span,
+						.wpforo .wpfcl-a,
+						.wpf-members-info > a:hover,
+						#wpforo-wrap  #wpforo-stat-body .wpf-last-info i,
+						#wpforo-wrap  #wpforo-stat-body .wpf-last-info p a:hover,
+						#wpforo-wrap .wpforo-last-posts-list a:hover,
+						.wpf-last-post-by a:hover,
+						#wpforo-wrap .wpforo-post .wpf-action:hover,
+						#wpforo-wrap > a:hover,
+						.wpforo .wpfcl-5,
+						.wpforo  .wpfcl-8,
+						.activity-icon i,
+						.author-name a:hover,
+						#wpforo-wrap .wpforo-profile-wrap .wpf-username,
+						#wpforo-wrap .wpforo-profile-wrap .wpf-profile-plugin-menu .wpf-pp-menu .wpf-pp-menu-item:hover,
+						#wpforo-wrap .wpf-profile-section .wpf-profile-section-head i,
+						#wpforo-wrap .wpforo-activity-content .activity-title a:hover,
+						#wpforo-wrap .wpforo-profile-wrap .profile-rating-bar-wrap .rating-bar-cell,
+						#wpforo-wrap .wpf-search i,
+						#wpforo-wrap .wpforo-profile-wrap .wpf-profile-plugin-menu #wpf-pp-forum-menu .wpf-pp-menu-item,
+						#wpforo-wrap .wpf-action-link span:hover,
+						.wpforo-membertoggle,.wpforo-topic-icon i,
+						#wpforo-wrap .wpforo-post .wpf-left .wpforo-membertoggle i,
+						#wpforo-wrap .wpfl-1 .wpforo-topic-title a:hover,
+						#wpforo-wrap .wpforo-profile-wrap .wpf-profile-badge,
+						.wpforo #wpforo-wrap #wpforo-stat-body .wpf-stat-item i,
+						.wpforo .wpfcl-0,
+						#wpforo-wrap .wpfl-1 .wpforo-forum-footer i,
+						#buddypress div#item-header div#item-meta a:hover,
+						#buddypress ul.item-list li div.item-title > a:hover,
+						#bbpress-forums p.bbp-topic-meta a:hover,
+						.woocommerce ul.products li.product .price,
+						#buddypress #activity-stream p > a:hover,
+						.profile p a:hover,
+						.gform_wrapper ul.gfield_checkbox li input[type="checkbox"]:checked + label, 
+						.gform_wrapper ul.gfield_radio li input[type="radio"]:checked + label,
+						.gform_wrapper span.ginput_product_price,
+						.notifications td > a:hover,
+						.activity-read-more a:hover,
+						#wpforo-wrap h3.wpforo-forum-title a:hover,
+						.wpforo-last-topic-user a:hover,
+						.wpforo-last-topic-title a:hover,
+						.widget_bp_groups_widget .item-list .item-title:hover a,
+						.widget_bp_groups_widget .item-options a:hover,
+						.bbp-login-form .bbp-login-links a:hover,
+						#bbp_views_widget-2 ul li a:hover,
+						.volunteer_item:hover .work_item_caption h6,
+						.work_item_caption h6 a:hover,
+						#bbp_topics_widget-2 ul li a:hover,
+						#bbp_replies_widget-2 ul li a:hover,
+						#bbp_forums_widget-2 ul li a:hover,
+						#bbpress-forums div.bbp-topic-content a, #bbpress-forums div.bbp-reply-content a,
+						.kode_login_social-account.white-login-form .login_registor-style input[type="checkbox"]:checked ~ small,
+						.white-login-form.kode_login_social-account .login_registor-style small,
+						.woocommerce-info .showcoupon,
+						
+						/*ChildCare Colors*/
+						
+						.childcare_wrok_column:hover span,
+						.childcare_wrok_column:hover h5,
+						.widget_recent_post:hover small,
+						.class_megamenu ul.row .mega-child li:hover a,
+						.childcare_comming-soon .childcare_404ops form .importer button,
+						.event_ralated_posts:hover .blog_meta li i,
+						.contact_information li i,
+						.childcare_informate_data li span,
+						.shop_item_caption small,
+						.donate_causes_caption h5 b,
+						.childcare-pagination .page-numbers:hover,
+						.childcare-pagination .current,
+						.categories_widget li:hover:before,
+						.categories_widget li:hover a,
+						.tags ul li:hover a,
+						.arrow_lines li:hover a,
+						.arrow_lines li:hover:before,
+						.blog_meta li a:hover,
+						.childcare_accordion .accordion-open,
+						.childcare_accordion .accordion-open:before,
+						.checked_lines li:before,
+						.social_icons_01 li:hover a,
+						.volunteer_item:hover .work_item_caption h6,
+						.childcare_post_caption:hover h6,
+						.footer_nav li:hover a,
+						.footer_nav li:hover a:before,
+						.meta_register li:hover a,
+						.copyright_by_kodeforest p a,
+						.meta_list li:hover a,
+						.childcare_blog_columns:hover .childcare_blog_caption span i:after,
+						.childcare_blog_columns:hover .blog_list_caption h6,
+						.childcare_blog_columns:hover .childcare_blog_caption span a,
+						.about_progress span b,
+						.people_donated_content h3 b,
+						.childcare_404ops h4 b,
+						.title_404,
+						.checkbox label input[type="checkbox"]:checked ~ span:before,
+						.checkbox label input[type="checkbox"]:checked ~ span,
+						.childcare_login_form p a,
+						.work_item_caption h6 a:hover,
+						.blog_list_caption h6 a:hover,
+						.box-layout:hover a i:after,
+						.childcare_blog_caption .box-layout .blog-info:hover i,
+						.over_history_blog_event h4 a:hover
+
+						
+						{color: #b43e35 !important;  }
+
+						/*
+							  ============================================================
+								   Background Color
+							  ============================================================
+						*/
+						.htl2-login .nav-tabs,
+						.causes_description .checklist li:before,
+						.calendar_wrap thead tr,
+						.calendar_wrap #today,
+						.calendar_wrap td:hover,
+						.navigation ul li > .children > li:hover > a,
+						.navigation ul li > .children > li:hover .children > a,
+						.main-heading h5:before,
+						.wpcf7-form p input[type="submit"],
+						.main-heading h5:after,
+						.theme-overlay:before,
+						.d-relf-services:hover,
+						.footer-contact:hover span,
+						.kode-pagination .page-numbers:hover,
+						.custom-slider-navigation2 .slick-arrow:hover,
+						.d-relf-volunteer:hover .volunteer-contant,
+						.kode_post_slider .donate:hover,
+						.d-relf-gallary-thumb  figure,
+						.slider-nav2 .slick-current .banner-thumb .text i:after,
+						.banner-thumb:hover .text i::after,
+						.custom-dots .slick-dots li.slick-active,
+						.d-relf-donation-button a.theme-bg-color,
+						.theme-bg-color,
+						.notification-settings th,
+						.social-icons li:hover a,
+						.d-relf-donation-button a:hover,
+						.navigation ul li a:before,
+						#bbpress-forums div.bbp-forum-header:before,
+						#bbpress-forums div.bbp-topic-header:before,
+						#bbpress-forums div.bbp-reply-header:before,
+						#bbpress-forums li.bbp-header, #bbpress-forums li.bbp-footer,
+						#bbpress-forums div.bbp-the-content-wrapper div.quicktags-toolbar,
+						#bbpress-forums #bbp_topic_submit, #bbpress-forums #bbp_reply_submit,
+						.bbp-breadcrumb,
+						div.bbp-template-notice.info,
+						.event_columns_style_03:hover .event_fixed-date span,
+						.d-relf-recentpost figure,
+						.btn-default.theme-hover:hover,
+						.d-relf-event:hover .event-contant .event-head .date-box,
+						.d-relf-event-list .event-head:hover .date-box,
+						.d-relf-event:hover .gray-bg-color,
+						.gray-bg-color:hover,
+						.hover-effect .effect_data li:hover a,
+						.widget-tags li:hover a,
+						.barWrapper.theme-color-progressbar .tooltip > .tooltip-inner,
+						.barWrapper.theme-color-progressbar .progress-bar,
+						.d-relf-campaing-thumb:hover .tooltip > .tooltip-inner,
+						.d-relf-campaing-thumb:hover .barWrapper .progress-bar,
+						.btn-default.theme-color.theme-bdr-color:hover,
+						.kode-social-link a:hover,
+						#form03 .modal-header, 
+						#form02 .modal-header,
+						.bp-avatar-nav ul.avatar-nav-items li.current a,
+						.kode_radio_style input[type="radio"]:checked + span:before,
+						.woocommerce div.product form.cart .button,
+						.woocommerce #review_form #respond .form-submit input,
+						.woocommerce-content ul.products li .added_to_cart,
+						.woocommerce span.onsale,
+						.k-content-container .bbp-breadcrumb, #bbpress-forums li.bbp-header, #bbpress-forums fieldset.bbp-form fieldset.bbp-form legend,
+						.woocommerce .woocommerce-error .button, .woocommerce .woocommerce-info .button, .woocommerce .woocommerce-message .button,
+						.woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+						.woocommerce ul.products li.product .button,
+						.woocommerce .cart .button, .woocommerce .cart input.button,
+						.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+						.shop_table.shop_table_responsive.cart thead tr,
+						.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button,
+						.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,
+						.woocommerce ul.products li.product span.onsale,
+						.kode_top_donate button,
+						.woocommerce ul.products li.product .button,
+						.woocommerce span.onsale,
+						.shop_table thead tr th,
+						.woocommerce .cart .button,
+						.woocommerce .cart input.button,
+						.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,
+						.woocommerce-Button.button,
+						.button.alt,
+						.woocommerce-content ul.products li .added_to_cart,
+						.woocommerce-checkout #payment div.payment_box,
+						.eco_pagination_1 .current,
+						.woocommerce-MyAccount-content  fieldset legend:before,
+						.woocommerce-account .k-title > h2:before,
+						.cart_totals > h2:before,
+						.woocommerce-cart .k-title h2:before,
+						#wpforo-wrap .wpfl-1 .wpforo-category,
+						.related.products h2::before,
+						.woocommerce-Tabs-panel h2::before,
+						.woocommerce div.product .product_title::before,
+						.woocommerce-MyAccount-content  fieldset legend:after,
+						.woocommerce-account .k-title > h2:after,
+						.cart_totals > h2:after,
+						.woocommerce-cart .k-title h2:after,
+						.related.products h2::after,
+						.woocommerce-Tabs-panel h2::after,
+						.woocommerce div.product .product_title::after,
+						.ignitiondeck.idc_lightbox .form-row.submit input[type="submit"], 
+						#fivehundred .ignitiondeck.idc_lightbox .form-row.submit input[type="submit"],
+						.chosen-container .chosen-results li.active-result.highlighted,
+						.chosen-container .chosen-results li.active-result.highlighted:hover,
+						.woocommerce-MyAccount-navigation ul li:hover a,
+						.white-login-form input[type="checkbox"]:checked ~ span::before,
+						.kode-gallery-item .kode-text a:hover,
+						.woocommerce-Reviews #reply-title a,
+						.bx-wrapper .bx-controls-direction a:hover,
+						.nivo-controlNav a.active,
+						.kd-table thead,
+						.kd-accordion .accordion.accordion-open,
+						.flex-direction-nav a:hover,
+						.woocommerce div.product form.cart .button,
+						.woocommerce-MyAccount-navigation ul li.is-active a,
+						.page-links a span:hover,
+						.tagcloud > a:hover,
+						.edu_masonery_thumb,
+						.woocommerce a.remove:hover,
+						.kode-thumb-link,
+						#signup-box .modal-dialog .modal-content .nav.nav-tabs,
+						.input-field label:after,
+						.login-button input[type="submit"],
+						.wpcf7-form p input[type="submit"]:hover,
+						.post-password-form input[type="submit"]:hover,
+						.form-submit .submit:hover,
+						.btn-default:hover,
+						.login-button input[type="button"],
+						.login-social li a:hover,
+						.kd-tab li.active a,
+						#buddypress div.item-list-tabs ul li.current a, #buddypress div.item-list-tabs ul li.selected a,
+						#buddypress div.item-list-tabs ul li a:hover,
+						#buddypress div.item-list-tabs ul li span:hover,
+						.tooltip > .tooltip-inner, .barWrapper .progress-bar,
+						.tooltip-inner,
+						#buddypress .activity-list li.load-more:hover, #buddypress .activity-list li.load-newest:hover,
+						#buddypress div.pagination,
+						.bbp-pagination-count,
+						.htl2-login .nav-tabs li a,
+						.htl2-login .nav-tabs,
+						.kd-tab li.active a,
+						.fig_shop_caption a:hover,
+						#wpforo-wrap .wpforo-profile-wrap .h-bottom .wpf-profile-menu:hover,
+						#wpforo-wrap .wpforo-profile-wrap .wpforo-profile-label,
+						.wpforo #wpforo-wrap input[type="submit"],
+						body #cookie-law-info-bar .cli-plugin-button,
+						#wpforo-wrap .wpf-breadcrumb a.active,
+						#wpforo-wrap .wpf-breadcrumb a:hover,
+						#wpforo-wrap .wpf-breadcrumb a.active:after,
+						#wpforo-wrap .wpf-breadcrumb a:hover:after,
+						.wpf-member-profile-buttons a:hover:before,
+						.wpforo #wpforo-wrap .wpfl-1 .wpforo-topic-head,
+						.wpforo #wpforo-wrap .wpf-button,
+						.wpforo #wpforo-wrap #wpforo-stat-header,
+						.wpforo #wpforo-wrap #wpforo-poweredby,
+						.wpforo  #wpforo-wrap .wpforo-active, 
+						#wpforo-wrap .wpfl-1 .wpforo-post-head,
+						.wpforo  #wpforo-wrap #wpforo-menu li:hover, 
+						.widget.buddypress #bp-login-widget-form #bp-login-widget-submit:hover,
+						.widget.buddypress #bp-login-widget-form .bp-login-widget-register-link a:hover,
+						.bbp-login-form .bbp-submit-wrapper button.button:hover,
+						.widget #bbp-search-form input[type="text"]:focus + input[type="submit"],
+						.gform_footer .gform_button:hover,
+						.wpforo  #wpforo-wrap #wpforo-menu .current-menu-item,
+						.wpforo  #wpforo-wrap #wpforo-menu .current-menu-ancestor, 
+						.wpforo  #wpforo-wrap #wpforo-menu .current-menu-parent, 
+						.wpforo  #wpforo-wrap #wpforo-menu .current_page_item,
+						#buddypress div.item-list-tabs ul li.current a, #buddypress div.item-list-tabs ul li.selected a, #buddypress .comment-reply-link, #buddypress a.button, #buddypress button, #buddypress div.generic-button a, #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress input[type="submit"], #buddypress ul.button-nav li a, a.bp-title-button, #buddypress table.forum thead tr, #buddypress table.messages-notices thead tr, #buddypress table.notifications thead tr, #buddypress table.notifications-settings thead tr, #buddypress table.profile-fields thead tr, #buddypress table.profile-settings thead tr, #buddypress table.wp-profile-fields thead tr, #buddypress .standard-form input[type="submit"]:focus,
+						.progress-bar,
+						
+						/*Childcare Styles*/
+						
+						.progress_bar_style_02 .bar,
+						.left_logo_on_sidebar,
+						.countdown li:hover .count_down_style,
+						.childcare_accordion_faq .title:before,
+						.fc-day.fc-widget-content.fc-past:hover,
+						.fc-unthemed td.fc-today,
+						.checkbox_radio input[type="radio"]:checked ~ span:before,
+						.childcare_filter_tabs li:hover a,
+						.childcare_filter_tabs li a.active,
+						.childcare_mein_tabs li:hover a,
+						.childcare_mein_tabs li.active a,
+						.event_ralated_posts:hover .box-layout-02,
+						.fig_shop_caption a:hover,
+						.childcare-pagination .next:hover,
+						.childcare-pagination .prev:hover,
+						.widget_recent_post figure a:before,
+						.childcare_author_caption .social_icons_01 li:hover a,
+						.widget_tags li:hover a,
+						.childcare-tab li:hover a,
+						.childcare-tab li.active a,
+						.childcare_count_plus,
+						.sidenav,
+						.btn_background_04:hover,
+						.childcare_timeline-navigation li:hover a:after,
+						.sidebar-menu li.sidebar-header,
+						.sidebar.right,
+						.no-touch .childcare_our_history .events a:hover:after,
+						.childcare_our_history .filling-line,
+						.childcare_our_history .events a.selected::after,
+						.childcare_helping_columns span,
+						.breadcrumbs,
+						.subscribe_section:before,
+						.contact_form,
+						.social_icons_02 li:hover a,
+						.information_bar,
+						.slick-dots li.slick-active button:before,
+						.work_item_style:hover figure:before,
+						.theme_bg-color-03:hover,
+						.theme_bg-color-02,
+						.btn_transparent:hover,
+						.theme_bg-color,
+						.social_icons_04 li:hover a,
+						.over_services .slide:before,
+						.childcare_navigaion,
+						.widget_gallery li a:before,
+						.title-sidebar-menu,
+						.donors_causes_caption b,
+						.radio_btn input[type="radio"]:checked ~ span,
+						#give_form .close:before,
+						.top_row .logo h1,
+						#login_form .close:before,
+						.hover_effect_class figure:after,
+						#give_form .close,
+						#login_form .close, 
+						.event_listing_column_caption .btn_transparent_03:hover
+						
+						{background-color: #b43e35 !important;  }
+.input-field input[type="text"]:focus{box-shadow: 0 0px 1px 0 #b43e35 !important;  }
+.header_3 .kode_top_bar_3, .tooltip.top .tooltip-arrow{border-top-color: #b43e35 !important;  }
+.kf_login_colum{border-bottom-color: #b43e35 !important;  }
+.kode_location_property_4{border-bottom-color: #fff !important;  }
+.kode-email-account input[type="password"]:focus, .kode-email-account input[type="text"]:focus, .memberdeck .checkout-title-bar span.active::after, .kf_login_1::before{border-color: #b43e35 transparent transparent !important;  }
+.kode_pet_navigation ul.nav li a.current{border-top-color: #b43e35 !important;  }
+
+								.kode-sidebar.kode-left-sidebar,
+								.kode-sidebar.kode-right-sidebar,
+								.kode-widget.kode-sidebar-element{background-color: #ffffff !important;float:left;width:100%;}
+
+								.kode-sidebar.kode-left-sidebar,
+								.kode-sidebar.kode-right-sidebar,
+								.kode-widget.kode-sidebar-element{padding-top: px !important;}
+
+								.kode-sidebar.kode-left-sidebar,
+								.kode-sidebar.kode-right-sidebar,
+								.kode-widget.kode-sidebar-element{padding-bottom: px !important;}
+
+								.kode-sidebar.kode-left-sidebar,
+								.kode-sidebar.kode-right-sidebar,
+								.kode-widget.kode-sidebar-element{padding-left: px !important;}
+
+								.kode-sidebar.kode-left-sidebar,
+								.kode-sidebar.kode-right-sidebar,
+								.kode-widget.kode-sidebar-element{padding-right: px !important;}
