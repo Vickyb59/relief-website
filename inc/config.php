@@ -26,13 +26,13 @@
 		if(
 			( $_SERVER['REMOTE_ADDR'] == '::1' ) || ( $_SERVER['REMOTE_ADDR'] == '127.0.0.1' )
 		){ 		
-			$baseurl = 'http://localhost/umcorcovid';			
+			$baseurl = 'http://localhost/umcordonations';			
 		}  else {			
-			$baseurl = 'https://umcorcovid.com/';
+			$baseurl = 'https://umcordonations.com/';
 		}
 	//main url for SEO configurations
-	$main_url = 'https://umcorcovid.com/';
-	$sweet_url = 'umcorcovid.com';
+	$main_url = 'https://umcordonations.com/';
+	$sweet_url = 'umcordonations.com';
 	$noreply_password = 'Ucovid@001-';
 	//main website configuration settings
 		$settings = (object) array(
@@ -42,9 +42,9 @@
 			'siteTagline' => 'A fight for one is a fight for all',
 			'phoneNumber' => '',
 			'address' => '565 National Hwy, Cumberland, MD 21502, United States',
-			'email' => 'info@umcorcovid.com',
-			'email2' => 'support@umcorcovid.com',
-			'email3' => 'sales@umcorcovid.com',
+			'email' => 'info@umcordonations.com',
+			'email2' => 'support@umcordonations.com',
+			'email3' => 'sales@umcordonations.com',
 			'instagram' => '',
 			'facebook' => '',
 			'linkedin' => '',
