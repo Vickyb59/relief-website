@@ -355,6 +355,248 @@
                                 </div>
                             </div>
                         </div>
+                        <div id="content-section-6">
+                            <div
+                                class="kode-parallax-wrapper kode-background-image"
+                                id="kode-parallax-wrapper-5"
+                                data-bgspeed="0"
+                                style="background-color: #b43e35; background-image: url('wp-content/uploads/2017/04/d-relf-stats-wrap-bg-1.png'); padding-top: 80px; padding-bottom: 80px;"
+                            >
+                                <style scoped>
+                                    #kode-parallax-wrapper-5 {
+                                        position: relative;
+                                    }
+                                    #kode-parallax-wrapper-5 .container {
+                                        position: relative;
+                                        z-index: 99999;
+                                    }
+                                    #kode-parallax-wrapper-5:before {
+                                        opacity: 0.7;
+                                        content: "";
+                                        position: absolute;
+                                        left: 0px;
+                                        top: 0px;
+                                        height: 100%;
+                                        width: 100%;
+                                    }
+                                </style>
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-sm-6 col-md-3 columns">
+                                            <div class="row">
+                                                <script type="text/javascript">
+                                                    jQuery(document).ready(function ($) {
+                                                        /* ----------------------------------------------------------------------                                                         Counter Functions ---------------------------------------------------------------------- */
+                                                        if ($("#new-count-501").length) {
+                                                            $("#new-count-501").counterUp({
+                                                                delay: 10,
+                                                                time: 1000,
+                                                            });
+                                                        }
+                                                    });
+                                                </script>
+                                                <ul class="childcare_counter">
+                                                    <li>
+                                                        <span class="fa fa-globe"></span><span id="new-count-501" class="countup">10</span>
+                                                        <h4>Cities</h4>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-3 columns">
+                                            <div class="row">
+                                                <script type="text/javascript">
+                                                    jQuery(document).ready(function ($) {
+                                                        /* ----------------------------------------------------------------------  Counter Functions---------------------------------------------------------------------- */
+                                                        if ($("#new-count-502").length) {
+                                                            $("#new-count-502").counterUp({
+                                                                delay: 10,
+                                                                time: 1000,
+                                                            });
+                                                        }
+                                                    });
+                                                </script>
+                                                <ul class="childcare_counter">
+                                                    <li>
+                                                        <span class="icon-gestures"></span><span id="new-count-502" class="countup">14</span>
+                                                        <h4>Campaigns</h4>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-3 columns">
+                                            <div class="row">
+                                                <script type="text/javascript">
+                                                    jQuery(document).ready(function ($) {
+                                                        /* ---------------------------------------------------------------------- 
+                                                        Counter Functions ---------------------------------------------------------------------- */
+                                                        if ($("#new-count-503").length) {
+                                                            $("#new-count-503").counterUp({
+                                                                delay: 10,
+                                                                time: 1000,
+                                                            });
+                                                        }
+                                                    });
+                                                </script>
+                                                <ul class="childcare_counter">
+                                                    <li>
+                                                        <span class="icon-medical-1"></span><span id="new-count-503" class="countup">507</span>
+                                                        <h4>Donation</h4>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-6 col-md-3 columns">
+                                            <div class="row">
+                                                <script type="text/javascript">
+                                                    jQuery(document).ready(function ($) {
+                                                        /* ----------------------------------------------------------------------   Counter Functions --------------------------------------------------------------------- */
+                                                        if ($("#new-count-504").length) {
+                                                            $("#new-count-504").counterUp({
+                                                                delay: 10,
+                                                                time: 1000,
+                                                            });
+                                                        }
+                                                    });
+                                                </script>
+                                                <ul class="childcare_counter">
+                                                    <li>
+                                                        <span class="icon-love"></span><span id="new-count-504" class="countup">25</span>
+                                                        <h4>Sponsors</h4>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div id="content-section-7">
+                            <div class="section-container container">
+                                <div class="row">
+                                    <div class="clear"></div>
+                                    <div class="kode-item kode-divider-item" style="margin-bottom: 70px;"><div class="kode-divider"></div></div>
+                                    <div class="clear"></div>
+                                    <div class="clear"></div>
+                                    <div class="kode-simple-heading text-center">
+                                        <div class="col-md-12">
+                                            <div id="kode-heading-10" class="main-heading text-center">
+                                                <h5 style="color: #000000;">Meet Our Supporting Pastoral Team</h5>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="clear"></div>
+                                    <div class="kode-team kode-team-grid">
+                                        <div class="row">
+                                            <div class="col-sm-6 col-md-3 columns">
+                                                <div class="d-relf-volunteer absolute-style">
+                                                    <figure>
+                                                        <img
+                                                            width="385"
+                                                            height="545"
+                                                            src="wp-content/uploads/2017/04/volunteer2-385x545.jpg"
+                                                            class="attachment-disaster-relief-post-thumbnail-size size-disaster-relief-post-thumbnail-size wp-post-image"
+                                                            alt=""
+                                                            loading="lazy"
+                                                        />
+                                                    </figure>
+                                                    <div class="volunteer-contant">
+                                                        <span class="icon-style"></span>
+                                                        <h6 class="volunteer-title"><a href="team/jasmin-jaquline/index.html">Jasmin Jaquline</a></h6>
+                                                        <em>Cheif Executive CEO</em>
+                                                        <p>Lorem Ipsum is simpl</p>
+                                                        <div class="kode-social-link">
+                                                            <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-youtube"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-md-3 columns">
+                                                <div class="d-relf-volunteer absolute-style">
+                                                    <figure>
+                                                        <img
+                                                            width="385"
+                                                            height="545"
+                                                            src="wp-content/uploads/2017/04/volunteer1-385x545.jpg"
+                                                            class="attachment-disaster-relief-post-thumbnail-size size-disaster-relief-post-thumbnail-size wp-post-image"
+                                                            alt=""
+                                                            loading="lazy"
+                                                        />
+                                                    </figure>
+                                                    <div class="volunteer-contant">
+                                                        <span class="icon-style"></span>
+                                                        <h6 class="volunteer-title"><a href="team/annie-hawklin/index.html">Annie Hawklin</a></h6>
+                                                        <em>Volunteer</em>
+                                                        <p>Lorem Ipsum is simpl</p>
+                                                        <div class="kode-social-link">
+                                                            <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-youtube"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-md-3 columns">
+                                                <div class="d-relf-volunteer absolute-style">
+                                                    <figure>
+                                                        <img
+                                                            width="385"
+                                                            height="545"
+                                                            src="wp-content/uploads/2017/04/volunteer5-385x545.jpg"
+                                                            class="attachment-disaster-relief-post-thumbnail-size size-disaster-relief-post-thumbnail-size wp-post-image"
+                                                            alt=""
+                                                            loading="lazy"
+                                                        />
+                                                    </figure>
+                                                    <div class="volunteer-contant">
+                                                        <span class="icon-style"></span>
+                                                        <h6 class="volunteer-title"><a href="team/jothan-manning/index.html">Jothan Manning</a></h6>
+                                                        <em>Volunteer</em>
+                                                        <p>Lorem Ipsum is simpl</p>
+                                                        <div class="kode-social-link">
+                                                            <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-youtube"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-sm-6 col-md-3 columns">
+                                                <div class="d-relf-volunteer absolute-style">
+                                                    <figure>
+                                                        <img
+                                                            width="385"
+                                                            height="545"
+                                                            src="wp-content/uploads/2017/04/volunteer6-385x545.jpg"
+                                                            class="attachment-disaster-relief-post-thumbnail-size size-disaster-relief-post-thumbnail-size wp-post-image"
+                                                            alt=""
+                                                            loading="lazy"
+                                                        />
+                                                    </figure>
+                                                    <div class="volunteer-contant">
+                                                        <span class="icon-style"></span>
+                                                        <h6 class="volunteer-title"><a href="team/mikal-greek/index.html">Mikal Greek</a></h6>
+                                                        <em>Volunteer</em>
+                                                        <p>Lorem Ipsum is simpl</p>
+                                                        <div class="kode-social-link">
+                                                            <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-youtube"></i></a>
+                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="clear"></div>
+                                    <div class="clear"></div>
+                                    <div class="clear"></div>
+                                    <div class="kode-item kode-divider-item" style="margin-bottom: 50px;"><div class="kode-divider"></div></div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                        </div>
                         <!--<div id="content-section-5">
                             <div class="kode-parallax-wrapper kode-background-color" id="kode-parallax-wrapper-4" style="padding-top: 70px; padding-bottom: 50px; background: #f2f2f2;">
                                 <div class="container-fluid">
@@ -599,250 +841,6 @@
                                 </div>
                             </div>
                             <div class="clear"></div>
-                        </div>
-                        <div id="content-section-6">
-                            <div
-                                class="kode-parallax-wrapper kode-background-image"
-                                id="kode-parallax-wrapper-5"
-                                data-bgspeed="0"
-                                style="background-color: #b43e35; background-image: url('wp-content/uploads/2017/04/d-relf-stats-wrap-bg-1.png'); padding-top: 80px; padding-bottom: 80px;"
-                            >
-                                <style scoped>
-                                    #kode-parallax-wrapper-5 {
-                                        position: relative;
-                                    }
-                                    #kode-parallax-wrapper-5 .container {
-                                        position: relative;
-                                        z-index: 99999;
-                                    }
-                                    #kode-parallax-wrapper-5:before {
-                                        opacity: 0.7;
-                                        content: "";
-                                        position: absolute;
-                                        left: 0px;
-                                        top: 0px;
-                                        height: 100%;
-                                        width: 100%;
-                                    }
-                                </style>
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-sm-6 col-md-3 columns">
-                                            <div class="row">
-                                                <script type="text/javascript">
-                                                    jQuery(document).ready(function ($) {
-                                                        /* ----------------------------------------------------------------------                                                         Counter Functions ---------------------------------------------------------------------- */
-                                                        if ($("#new-count-501").length) {
-                                                            $("#new-count-501").counterUp({
-                                                                delay: 10,
-                                                                time: 1000,
-                                                            });
-                                                        }
-                                                    });
-                                                </script>
-                                                <ul class="childcare_counter">
-                                                    <li>
-                                                        <span class="fa fa-globe"></span><span id="new-count-501" class="countup">128</span>
-                                                        <h4>Countries</h4>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-6 col-md-3 columns">
-                                            <div class="row">
-                                                <script type="text/javascript">
-                                                    jQuery(document).ready(function ($) {
-                                                        /* ----------------------------------------------------------------------  Counter Functions---------------------------------------------------------------------- */
-                                                        if ($("#new-count-502").length) {
-                                                            $("#new-count-502").counterUp({
-                                                                delay: 10,
-                                                                time: 1000,
-                                                            });
-                                                        }
-                                                    });
-                                                </script>
-                                                <ul class="childcare_counter">
-                                                    <li>
-                                                        <span class="icon-gestures"></span><span id="new-count-502" class="countup">1055</span>
-                                                        <h4>Campaign</h4>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-6 col-md-3 columns">
-                                            <div class="row">
-                                                <script type="text/javascript">
-                                                    jQuery(document).ready(function ($) {
-                                                        /* ---------------------------------------------------------------------- 
-                                                        Counter Functions ---------------------------------------------------------------------- */
-                                                        if ($("#new-count-503").length) {
-                                                            $("#new-count-503").counterUp({
-                                                                delay: 10,
-                                                                time: 1000,
-                                                            });
-                                                        }
-                                                    });
-                                                </script>
-                                                <ul class="childcare_counter">
-                                                    <li>
-                                                        <span class="icon-medical-1"></span><span id="new-count-503" class="countup">685012</span>
-                                                        <h4>Donation</h4>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-6 col-md-3 columns">
-                                            <div class="row">
-                                                <script type="text/javascript">
-                                                    jQuery(document).ready(function ($) {
-                                                        /* ----------------------------------------------------------------------	Counter Functions --------------------------------------------------------------------- */
-                                                        if ($("#new-count-504").length) {
-                                                            $("#new-count-504").counterUp({
-                                                                delay: 10,
-                                                                time: 1000,
-                                                            });
-                                                        }
-                                                    });
-                                                </script>
-                                                <ul class="childcare_counter">
-                                                    <li>
-                                                        <span class="icon-love"></span><span id="new-count-504" class="countup">60875</span>
-                                                        <h4>Volunteers</h4>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="clear"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="clear"></div>
-                        </div>
-                        <div id="content-section-7">
-                            <div class="section-container container">
-                                <div class="row">
-                                    <div class="clear"></div>
-                                    <div class="kode-item kode-divider-item" style="margin-bottom: 70px;"><div class="kode-divider"></div></div>
-                                    <div class="clear"></div>
-                                    <div class="clear"></div>
-                                    <div class="kode-simple-heading text-center">
-                                        <div class="col-md-12">
-                                            <div id="kode-heading-10" class="main-heading text-center">
-                                                <h6 style="color: #000000;">We Are Fighting For your Rights</h6>
-                                                <h5 style="color: #000000;">Meet Our Volunteer</h5>
-                                                <p style="color: #666666;">Praising pain was born and I will give you a complete accountwill give you a complete account</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="clear"></div>
-                                    <div class="clear"></div>
-                                    <div class="kode-team kode-team-grid">
-                                        <div class="row">
-                                            <div class="col-sm-6 col-md-3 columns">
-                                                <div class="d-relf-volunteer absolute-style">
-                                                    <figure>
-                                                        <img
-                                                            width="385"
-                                                            height="545"
-                                                            src="wp-content/uploads/2017/04/volunteer2-385x545.jpg"
-                                                            class="attachment-disaster-relief-post-thumbnail-size size-disaster-relief-post-thumbnail-size wp-post-image"
-                                                            alt=""
-                                                            loading="lazy"
-                                                        />
-                                                    </figure>
-                                                    <div class="volunteer-contant">
-                                                        <span class="icon-style"></span>
-                                                        <h6 class="volunteer-title"><a href="team/jasmin-jaquline/index.html">Jasmin Jaquline</a></h6>
-                                                        <em>Cheif Executive CEO</em>
-                                                        <p>Lorem Ipsum is simpl</p>
-                                                        <div class="kode-social-link">
-                                                            <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-youtube"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-md-3 columns">
-                                                <div class="d-relf-volunteer absolute-style">
-                                                    <figure>
-                                                        <img
-                                                            width="385"
-                                                            height="545"
-                                                            src="wp-content/uploads/2017/04/volunteer1-385x545.jpg"
-                                                            class="attachment-disaster-relief-post-thumbnail-size size-disaster-relief-post-thumbnail-size wp-post-image"
-                                                            alt=""
-                                                            loading="lazy"
-                                                        />
-                                                    </figure>
-                                                    <div class="volunteer-contant">
-                                                        <span class="icon-style"></span>
-                                                        <h6 class="volunteer-title"><a href="team/annie-hawklin/index.html">Annie Hawklin</a></h6>
-                                                        <em>Volunteer</em>
-                                                        <p>Lorem Ipsum is simpl</p>
-                                                        <div class="kode-social-link">
-                                                            <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-youtube"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-md-3 columns">
-                                                <div class="d-relf-volunteer absolute-style">
-                                                    <figure>
-                                                        <img
-                                                            width="385"
-                                                            height="545"
-                                                            src="wp-content/uploads/2017/04/volunteer5-385x545.jpg"
-                                                            class="attachment-disaster-relief-post-thumbnail-size size-disaster-relief-post-thumbnail-size wp-post-image"
-                                                            alt=""
-                                                            loading="lazy"
-                                                        />
-                                                    </figure>
-                                                    <div class="volunteer-contant">
-                                                        <span class="icon-style"></span>
-                                                        <h6 class="volunteer-title"><a href="team/jothan-manning/index.html">Jothan Manning</a></h6>
-                                                        <em>Volunteer</em>
-                                                        <p>Lorem Ipsum is simpl</p>
-                                                        <div class="kode-social-link">
-                                                            <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-youtube"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-sm-6 col-md-3 columns">
-                                                <div class="d-relf-volunteer absolute-style">
-                                                    <figure>
-                                                        <img
-                                                            width="385"
-                                                            height="545"
-                                                            src="wp-content/uploads/2017/04/volunteer6-385x545.jpg"
-                                                            class="attachment-disaster-relief-post-thumbnail-size size-disaster-relief-post-thumbnail-size wp-post-image"
-                                                            alt=""
-                                                            loading="lazy"
-                                                        />
-                                                    </figure>
-                                                    <div class="volunteer-contant">
-                                                        <span class="icon-style"></span>
-                                                        <h6 class="volunteer-title"><a href="team/mikal-greek/index.html">Mikal Greek</a></h6>
-                                                        <em>Volunteer</em>
-                                                        <p>Lorem Ipsum is simpl</p>
-                                                        <div class="kode-social-link">
-                                                            <a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-youtube"></i></a>
-                                                            <a href="#"><i class="fa fa-linkedin"></i></a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="clear"></div>
-                                    <div class="clear"></div>
-                                    <div class="clear"></div>
-                                    <div class="kode-item kode-divider-item" style="margin-bottom: 50px;"><div class="kode-divider"></div></div>
-                                    <div class="clear"></div>
-                                </div>
-                            </div>
                         </div>
                         <div id="content-section-8">
                             <div class="kode-parallax-wrapper kode-background-image" id="kode-parallax-wrapper-6" data-bgspeed="0" style="background-image: url('wp-content/uploads/2017/04/call-to-action-bg.jpg');">
