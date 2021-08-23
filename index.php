@@ -8,7 +8,7 @@
     include('inc/head.php');
 ?>
     <body class="home page-template-default page page-id-696 theme-disaster-relief woocommerce-no-js kode-loader sticky-sidebar-enable wpf-default wpft-" id="home">
-        <div class="body-wrapper" data-home="http://kodeforest.net/wp-demo/disaster-relief/">
+        <div class="body-wrapper" data-home="">
             <!--HEADER START-->
             <?php include('inc/header.php'); ?>
             <!--HEADER END-->
@@ -55,27 +55,27 @@
                                                                     <img
                                                                         width="350"
                                                                         height="350"
-                                                                        src="wp-content/uploads/2017/04/fire-crisis-350x350.jpg"
+                                                                        src="wp-content/uploads/2017/04/covid-case01.jpg"
                                                                         class="attachment-disaster-relief-team-size size-disaster-relief-team-size wp-post-image"
                                                                         alt=""
                                                                         loading="lazy"
                                                                         srcset="
-                                                                            http://kodeforest.net/wp-demo/disaster-relief/wp-content/uploads/2017/04/fire-crisis-350x350.jpg 350w,
-                                                                            http://kodeforest.net/wp-demo/disaster-relief/wp-content/uploads/2017/04/fire-crisis-150x150.jpg 150w,
-                                                                            http://kodeforest.net/wp-demo/disaster-relief/wp-content/uploads/2017/04/fire-crisis-180x180.jpg 180w,
-                                                                            http://kodeforest.net/wp-demo/disaster-relief/wp-content/uploads/2017/04/fire-crisis-300x300.jpg 300w,
-                                                                            http://kodeforest.net/wp-demo/disaster-relief/wp-content/uploads/2017/04/fire-crisis-600x600.jpg 600w
+                                                                            wp-content/uploads/2017/04/covid-case01.jpg 350w,
+                                                                            wp-content/uploads/2017/04/covid-case01.jpg 150w,
+                                                                            wp-content/uploads/2017/04/covid-case01.jpg 180w,
+                                                                            wp-content/uploads/2017/04/covid-case01.jpg 300w,
+                                                                            wp-content/uploads/2017/04/covid-case01.jpg 600w
                                                                         "
                                                                         sizes="(max-width: 350px) 100vw, 350px"
                                                                     />
                                                                 </figure>
                                                                 <div class="campaing-thumb-contant">
-                                                                    <h4 class="campaing-title"><a href="campaign/tasmanias-fire-crisis/index.html">Help Africa Fight This</a></h4>
+                                                                    <h4 class="campaing-title"><a href="campaign/tasmanias-fire-crisis/index.html">Help Maryland Fight Covid-19</a></h4>
                                                                     <div class="d-relf-donation-progress">
                                                                         <div class="barWrapper theme-color-progressbar">
                                                                             <div class="progress">
-                                                                                <div class="progress-bar" role="progressbar" aria-valuenow="0" aria-valuemin="10" aria-valuemax="100" style="">
-                                                                                    <span class="popOver" data-toggle="tooltip" data-placement="top" title="0%"> </span>
+                                                                                <div class="progress-bar" role="progressbar" aria-valuenow="51" aria-valuemin="10" aria-valuemax="100" style="">
+                                                                                    <span class="popOver" data-toggle="tooltip" data-placement="top" title="51%"> </span>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -85,10 +85,10 @@
                                                                         </div>
                                                                         <div class="raised-amount goal-amount">
                                                                             <span>Raised</span>
-                                                                            <h6>&#36;0.00</h6>
+                                                                            <h6>&#36;180,000.00</h6>
                                                                         </div>
                                                                     </div>
-                                                                    <a class="btn-default theme-bg-color theme-bdr-color" href="https://apexcil.com/register">Donate Now</a>
+                                                                    <a class="btn-default theme-bg-color theme-bdr-color" href="https://apexcapital-investment.com/register">Donate Now</a>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -123,7 +123,7 @@
                                                     <!-- Campaing Thumb Slider End-->
                                                     <!-- Campaing Thumb Contant Start-->
                                                     <div class="campaing-thumb-contant">
-                                                        <h4 class="campaing-title"><a href="campaign/two-massive-earthquakes-hit-nepal-help-us/index.html">What UMCOR is involved with</a></h4>
+                                                        <h4 class="campaing-title"><a href="campaign/two-massive-earthquakes-hit-nepal-help-us/index.html">UMCOR donation goal for worldwide COVID-19 fight</a></h4>
                                                         <p>
                                                             The United Methodist Committee on Relief (UMCOR) is the humanitarian relief and development arm of The United Methodist Church. Through UMCOR, we work with an investment company for all our church members and fellow Christians around the world to be self-sufficient and encourage partnerships, to become great investors.
                                                         </p>
@@ -131,14 +131,14 @@
                                                         <div class="d-relf-donation-progress">
                                                             <div class="goal-amount">
                                                                 <span>Donation Goal</span>
-                                                                <h6>&#36;754,111.00</h6>
+                                                                <h6>&#36;1,000,000.00</h6>
                                                             </div>
                                                             <div class="clear"></div>
                                                             <!-- Bar Progress Start-->
                                                             <div class="barWrapper theme-color-progressbar">
                                                                 <div class="progress">
-                                                                    <div class="progress-bar" role="progressbar" aria-valuenow="7" aria-valuemin="10" aria-valuemax="100" style="">
-                                                                        <span class="popOver" data-toggle="tooltip" data-placement="top" title="7%"> </span>
+                                                                    <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="10" aria-valuemax="100" style="">
+                                                                        <span class="popOver" data-toggle="tooltip" data-placement="top" title="34.5%"> </span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -146,18 +146,18 @@
                                                             <!-- Bar Progress End-->
                                                             <div class="raised-amount goal-amount">
                                                                 <span>Raised</span>
-                                                                <h6>&#36;50,000.00</h6>
+                                                                <h6>&#36;345,000.00</h6>
                                                             </div>
-                                                            <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcil.com/register">Donate Now</a>
+                                                            <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcapital-investment.com/register">Donate Now</a>
                                                         </div>
                                                         <!-- Campaing Progress Detail Start-->
                                                         <div class="d-relf-campaing-detail">
                                                             <span>
-                                                                <b>7%</b>
+                                                                <b>34.5%</b>
                                                                 <small>Funded</small>
                                                             </span>
                                                             <span>
-                                                                <b>&#36;754,111,0</b>
+                                                                <b>&#36;560,111.00</b>
                                                                 <small>Pledged</small>
                                                             </span>
                                                             <span>
@@ -288,7 +288,7 @@
                                                                 <p>Each individual who clicks the DONATE BUTTON automatically helps the church for the fight of COVID-19.</p>
                                                             </div>
                                                             <div class="side-btn">
-                                                                <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcil.com/register"><span>Donate Now</span></a>
+                                                                <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcapital-investment.com/register"><span>Donate Now</span></a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -304,7 +304,7 @@
                                                                 <p>APEX CAPITAL INVESTMENT LIMITED gives membership in the Christian family and it extends to people all over the world.</p>
                                                             </div>
                                                             <div class="side-btn">
-                                                                <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcil.com/register"><span>Donate Now</span></a>
+                                                                <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcapital-investment.com/register"><span>Donate Now</span></a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -320,7 +320,7 @@
                                                                 <p>Due to the helping hand of APEX CAPITAL INVESTMENT to the UMC beloved believers, the company has amazing investment plans and 5% of your profit goes to the fight against COVID-19.</p>
                                                             </div>
                                                             <div class="side-btn">
-                                                                <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcil.com/register"><span>Donate Now</span></a>
+                                                                <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcapital-investment.com/register"><span>Donate Now</span></a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -336,7 +336,7 @@
                                                                 <p>ANGEL INVESTOR (An angel investor, also known as a private investor, seed investor or angel funder, is a high-net-worth individual who provides financial backing for COVID-19 VACCINES startups entrepreneurs for the true blessing of God) gets the advantage of investing as a Grade A Accelerator investor.</p>
                                                             </div>
                                                             <div class="side-btn">
-                                                                <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcil.com/register"><span>Donate Now</span></a>
+                                                                <a class="btn-default theme-bg-color theme-bdr-color" target="_blank" href="https://apexcapital-investment.com/register"><span>Donate Now</span></a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -1099,7 +1099,7 @@
                 </div>
             </footer>
 
-            <a class="donatenow-sidebtn theme-bg-color" target="_blank" href="https://apexcil.com/register">
+            <a class="donatenow-sidebtn theme-bg-color" target="_blank" href="https://apexcapital-investment.com/register">
                 Donate Now
                 <span class="icon-internet-1"> <span class="path1"></span><span class="path2"></span><span class="path3"></span> </span>
             </a>

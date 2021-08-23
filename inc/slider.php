@@ -32,7 +32,7 @@
                         data-frame_999="st:3910;sp:1500;sR:2080;auto:true;"
                         style="z-index: 6;"
                     >
-                        <p>That means all people -- regardless of politics, religion, or ability to pay. <br> Improving their lives is Direct Relief's mission.</p>
+                        <p>For the needy shall not always be forgotten, and the hope of <br>the poor shall not perish forever.</p>
                         
                     </rs-layer>
                     
@@ -48,7 +48,7 @@
                         data-frame_999="st:3880;sp:1500;sR:2210;auto:true;"
                         style="z-index: 7;"
                     >
-                        <h1>Healthy People Better World</h1>
+                        <h1>Less Stress More Joy</h1>
                         
                     </rs-layer>
                     
@@ -113,7 +113,7 @@
                         data-frame_999="st:3880;sp:1500;sR:2100;auto:true;"
                         style="z-index: 7;"
                     >
-                        <p>That means all people -- regardless of politics, religion, or ability to pay. <br> Improving their lives is Direct Relief's mission.</p>
+                        <p>Beloved, I pray that all may go well with you and that you may be<br> in good health, as it goes well with your soul.</p>
                     </rs-layer>
                     
                     <rs-layer
@@ -161,7 +161,7 @@
                         data-frame_999="st:w;sp:1500;sR:7500;auto:true;"
                         style="z-index: 6;"
                     >
-                        <p>That means all people -- regardless of politics, religion, or ability to pay. <br> Improving their lives is Direct Relief's mission.</p>
+                        <p>Fear not, little flock, for it is your Father’s good <br>pleasure to give you the kingdom.</p>
                     </rs-layer>
                     
                     <rs-layer
@@ -176,7 +176,7 @@
                         data-frame_999="st:w;sp:1500;sR:7500;auto:true;"
                         style="z-index: 7;"
                     >
-                        <h1>Healthy People Better World</h1>
+                        <h1>Financially Fearful Flock</h1>
                     </rs-layer>
                     
                     <rs-layer
