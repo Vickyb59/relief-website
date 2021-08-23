@@ -67,6 +67,7 @@
         <link rel="stylesheet" id="flexslider-css" href="wp-content/themes/disaster-relief/framework/include/frontend_assets/flexslider/flexslider9f31.css?ver=5.7.2" type="text/css" media="all" />
         <link rel="stylesheet" id="prettyphoto-css" href="wp-content/themes/disaster-relief/framework/include/frontend_assets/default/css/prettyphoto9f31.css?ver=5.7.2" type="text/css" media="all" />
         <link rel="stylesheet" id="wpforo-dynamic-style-css" href="wp-content/plugins/wpforo/wpf-themes/classic/colorsa61a.css?ver=1.9.7.4e8c88b3e78cb1f0d53916c0d677d454" type="text/css" media="all" />
+        <link rel="stylesheet" id="style-css" href="wp-content/themes/disaster-relief/css/custom.css" type="text/css" media="all" />
         <script type="text/javascript" src="wp-includes/js/jquery/jquery.min9d52.js?ver=3.5.1" id="jquery-core-js"></script>
         <script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2" id="jquery-migrate-js"></script>
         <script type="text/javascript" id="ajax-login-script-js-extra">
